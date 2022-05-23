@@ -1,30 +1,41 @@
-# Awesome_Upduino [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Upduino [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Awesome Projects/Tutorials featuring the Upduino FPGA dev board by Tinyvision.ai
-
+> A collection of projects made with the Upduino by [Tinyvision.ai inc](https://tinyvision.ai)
+ 
+ The Upduino is an Open-Source, low cost, breadboardable dev board featuring the Lattice UltraPlus ICE40UP5K FPGA
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Official Documentation](#official-documentation)
+- [Getting Started](#getting-started)
+- [Projects](#projects)
+- [Contribute](#contribute)
 
 
-## Section
+## Official Documentation
 
-About this section. Optional. Keep this short and focus on the list.
+A shortlist of the most important files needed to get started with the Upduino v3.x provided by tinyvision.ai inc
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Upduino V3.x Repo](https://github.com/tinyvision-ai-inc/UPduino-v3.0)
+- [Read-the-Docs](https://upduino.readthedocs.io/en/latest/)
+- [Schematic](https://github.com/tinyvision-ai-inc/UPduino-v3.0/blob/master/Board/v3.0/UPduino_v3.0.pdf)
+- [.PCF](https://github.com/tinyvision-ai-inc/UPduino-v3.0/blob/master/RTL/common/upduino.pcf)
+- [Discord Server](https://www.discord.gg/yfj8Zg2jye)
 
+## Getting Started
 
-## Another Section
+- [Icestorm Blinky example](https://github.com/tinyvision-ai-inc/UPduino-v3.0/tree/master/RTL/blink_led)
+- [Lattice Radiant Blinky example](https://github.com/tinyvision-ai-inc/UPduino-v3.0/tree/master/RTL/radiant-reveal)
+- ["Fancy Blinky"](https://github.com/XarkLabs/upduino-example)
+- [apio-upduino-template](https://github.com/WasabiFan/apio-upduino-template)
+- [Basic FPGA development for absolute beginners](https://github.com/ranzbak/fpga-workshop)
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+## Projects
+- [Xosera]()
+  > Xosera is an FPGA based video adapter designed with the rosco_m68k retro computer in mind (likely adaptable to most any computer with an 8-bit parallel bus and a few control signals)
+- [verilog apple-one](https://github.com/alangarf/apple-one/tree/master/boards/upduino)
+   > a basic implementation of the original Apple 1 in Verilog (Upduino v1 board partially supported; Needs updating to the latest board revision)
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Make a [pull request](https://github.com/Xenador77/Awesome-Upduino/pulls), [raise an issue](https://github.com/Xenador77/Awesome-Upduino/issues), or get in touch via the tinyvision.ai inc [discord server](https://discord.gg/yfj8Zg2jye)
