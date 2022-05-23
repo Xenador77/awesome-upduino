@@ -31,10 +31,8 @@ A shortlist of the most important files needed to get started with the Upduino v
 - [Basic FPGA development for absolute beginners](https://github.com/ranzbak/fpga-workshop)
 
 ## Projects
-- [Xosera]()
-  > Xosera is an FPGA based video adapter designed with the rosco_m68k retro computer in mind (likely adaptable to most any computer with an 8-bit parallel bus and a few control signals)
-- [verilog apple-one](https://github.com/alangarf/apple-one/tree/master/boards/upduino)
-   > a basic implementation of the original Apple 1 in Verilog (Upduino v1 board partially supported; Needs updating to the latest board revision)
+- [Xosera](https://github.com/XarkLabs/Xosera) - FPGA based video adapter designed for rosco_m68k retro computer (adaptable to most any computer with 8-bit parallel bus and control signals)
+- [verilog apple-one](https://github.com/alangarf/apple-one/tree/master/boards/upduino) - a basic implementation of the original Apple 1 in Verilog (Upduino v1 board partially supported; Needs updating to the latest board revision)
 
 ## Contribute
 
