@@ -1,6 +1,6 @@
 # Awesome Upduino [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A collection of projects made with the Upduino by [Tinyvision.ai inc](https://tinyvision.ai)
+> A **Very WIP** collection of projects made with the Upduino by [Tinyvision.ai inc](https://tinyvision.ai)
  
  The Upduino is an Open-Source, low cost, breadboardable dev board featuring the Lattice UltraPlus ICE40UP5K FPGA
 
@@ -37,3 +37,5 @@ A shortlist of the most important files needed to get started with the Upduino v
 ## Contribute
 
 Contributions welcome! Make a [pull request](https://github.com/Xenador77/Awesome-Upduino/pulls), [raise an issue](https://github.com/Xenador77/Awesome-Upduino/issues), or get in touch via the tinyvision.ai inc [discord server](https://discord.gg/yfj8Zg2jye)
+
+Currently the list is **VERY WIP** and not yet fit for human consumption!
