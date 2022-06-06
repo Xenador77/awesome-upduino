@@ -1,9 +1,8 @@
 # Awesome Upduino [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A **Very WIP** collection of projects made with the Upduino by [Tinyvision.ai inc](https://tinyvision.ai)
- 
- The Upduino is an Open-Source, low cost, breadboardable dev board featuring the Lattice UltraPlus ICE40UP5K FPGA
-
+> 
+ **Is there an awesome addition that isn't listed? [Please let me know!](https://public.zenkit.com/f/CA2VQR3Nd/awesome-upduino?v=kn0k94iTCP)**
 ## Contents
 
 - [Official Documentation](#official-documentation)
