@@ -31,10 +31,11 @@ A shortlist of the most important files needed to get started with the Upduino v
 
 ## Projects
 - [Xosera](https://github.com/XarkLabs/Xosera) - FPGA based video adapter designed for rosco_m68k retro computer (adaptable to most any computer with 8-bit parallel bus and control signals)
-- [verilog apple-one](https://github.com/alangarf/apple-one/tree/master/boards/upduino) - a basic implementation of the original Apple 1 in Verilog (Upduino v1 board partially supported; Needs updating to the latest board revision)
+- [Upduino Video](https://github.com/XarkLabs/upduino-video) - Reasonably simple VGA video text generation example in SystemVerilog for Upduino V3
+- [verilog apple-one](https://github.com/alangarf/apple-one/tree/master/boards/upduino) - Basic implementation of the original Apple 1 in Verilog (Upduino v1 board partially supported; Needs updating to the latest board revision)
 
 ## Contribute
 
 Contributions welcome! Make a [pull request](https://github.com/Xenador77/Awesome-Upduino/pulls), [raise an issue](https://github.com/Xenador77/Awesome-Upduino/issues), or get in touch via the tinyvision.ai inc [discord server](https://discord.gg/yfj8Zg2jye)
 
-Currently the list is **VERY WIP** and not yet fit for human consumption!
+Currently the list is **VERY WIP** and actively being updated
