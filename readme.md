@@ -1,4 +1,4 @@
-# Awesome Upduino [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Upduino [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Upduino - V3](https://img.shields.io/badge/Upduino-V3-purple)](https://www.github.com/tinyvision-ai-inc/Upduino-v3.0)
 
 > A collection of projects made with the Upduino by [Tinyvision.ai inc](https://tinyvision.ai)
  
