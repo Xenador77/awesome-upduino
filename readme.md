@@ -35,8 +35,8 @@ A shortlist of the most important files needed to get started with the Upduino v
 - [Upduino Video](https://github.com/XarkLabs/upduino-video) - Reasonably simple VGA video text generation example in SystemVerilog [![Upduino - V3](https://img.shields.io/badge/Upduino-V3-purple)](https://www.github.com/tinyvision-ai-inc/Upduino-v3.0)
 - [verilog apple-one](https://github.com/alangarf/apple-one/tree/master/boards/upduino) - a basic implementation of the original Apple 1 in Verilog [![Upduino - V1](https://img.shields.io/badge/Upduino-V1-ffffb4)]( https://github.com/gtjennings1/UPDuino_v1_0)
 - [risc8](https://github.com/osresearch/risc8) - small 8-bit CPU that is mostly compatible with the AVR instruction set [![Upduino - V3](https://img.shields.io/badge/Upduino-V3-purple)](https://www.github.com/tinyvision-ai-inc/Upduino-v3.0)
-- [Hardware as Code Series](https://www.hackster.io/sthibault/hardware-as-code-part-i-an-introduction-48bacb) - design custom hardware without learning deep knowledge of logic design 
-- 
+- [Hardware as Code Series](https://www.hackster.io/sthibault/hardware-as-code-part-i-an-introduction-48bacb) - design custom hardware without learning deep knowledge of logic design  
+
 ## Contribute
 
 Contributions welcome! Make a [pull request](https://github.com/Xenador77/Awesome-Upduino/pulls), [raise an issue](https://github.com/Xenador77/Awesome-Upduino/issues), or get in touch via the tinyvision.ai inc [discord server](https://discord.gg/yfj8Zg2jye)
