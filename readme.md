@@ -6,13 +6,13 @@
  **Is there an awesome addition that isn't listed? [Please let me know!](https://public.zenkit.com/f/CA2VQR3Nd/awesome-upduino?v=kn0k94iTCP)**
 ## Contents
 
-- [Official Documentation](#official-documentation) [![Upduino - V3](https://img.shields.io/badge/Upduino-V3-purple)](https://www.github.com/tinyvision-ai-inc/Upduino-v3.0)
+- [Official Documentation](#official-documentation) 
 - [Getting Started](#getting-started)
 - [Projects](#projects)
 - [Contribute](#contribute)
 
 ## Official Documentation  
-A shortlist of the most important files needed to get started with the Upduino v3.x provided by tinyvision.ai inc
+A shortlist of the most important files needed to get started with the current iteration of the Upduino by [Tinyvision ai inc](https://tinyvision.ai), and links to the official repositories for previous versions by [Gnarley Grey](https://gtjennings1.github.io/)
 
 - [Upduino V3.x Repo](https://github.com/tinyvision-ai-inc/UPduino-v3.0) [![Upduino - V3](https://img.shields.io/badge/Upduino-V3-purple)](https://www.github.com/tinyvision-ai-inc/Upduino-v3.0)
 - [Schematic](https://github.com/tinyvision-ai-inc/UPduino-v3.0/blob/master/Board/v3.0/UPduino_v3.0.pdf)
@@ -31,11 +31,12 @@ A shortlist of the most important files needed to get started with the Upduino v
 
 ## Projects
 
-- [Xosera](https://github.com/XarkLabs/Xosera) - FPGA based video adapter designed for rosco_m68k retro computer (adaptable to most any computer with 8-bit parallel bus and control signals) [![Upduino - V3](https://img.shields.io/badge/Upduino-V3-purple)](https://www.github.com/tinyvision-ai-inc/Upduino-v3.0)
+- [Xosera](https://github.com/XarkLabs/Xosera) - Xark's FPGA based video adapter designed for rosco_m68k retro computer (adaptable to most any computer with 8-bit parallel bus and control signals) [![Upduino - V3](https://img.shields.io/badge/Upduino-V3-purple)](https://www.github.com/tinyvision-ai-inc/Upduino-v3.0)
 - [Upduino Video](https://github.com/XarkLabs/upduino-video) - Reasonably simple VGA video text generation example in SystemVerilog [![Upduino - V3](https://img.shields.io/badge/Upduino-V3-purple)](https://www.github.com/tinyvision-ai-inc/Upduino-v3.0)
 - [verilog apple-one](https://github.com/alangarf/apple-one/tree/master/boards/upduino) - a basic implementation of the original Apple 1 in Verilog [![Upduino - V1](https://img.shields.io/badge/Upduino-V1-ffffb4)]( https://github.com/gtjennings1/UPDuino_v1_0)
 - [risc8](https://github.com/osresearch/risc8) - small 8-bit CPU that is mostly compatible with the AVR instruction set [![Upduino - V3](https://img.shields.io/badge/Upduino-V3-purple)](https://www.github.com/tinyvision-ai-inc/Upduino-v3.0)
-- [Hardware as Code Series](https://www.hackster.io/sthibault/hardware-as-code-part-i-an-introduction-48bacb) - design custom hardware without learning deep knowledge of logic design  
+- [Hardware as Code Series](https://www.hackster.io/sthibault/hardware-as-code-part-i-an-introduction-48bacb) - design custom hardware without learning deep knowledge of logic design [![Upduino - V3](https://img.shields.io/badge/Upduino-V3-purple)](https://www.github.com/tinyvision-ai-inc/Upduino-v3.0)
+- [Xenador77/LiteX-boards](https://github.com/Xenador77/litex-boards) - Adds (mostly functional) upduino_v3 platform/target files that will hopefully be accepted into the upstream repo (once UART works). [![Upduino - V3](https://img.shields.io/badge/Upduino-V3-purple)](https://www.github.com/tinyvision-ai-inc/Upduino-v3.0)  
 
 ## Contribute
 
